@@ -1,2 +1,2 @@
-# first-project
-This is my first project
+#MACHINE LEARNING
+1)LINEAR REGRESSION
