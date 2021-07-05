@@ -1,3 +1,4 @@
-#MACHINE LEARNING
-linear regression added
+#MACHINE LEARNING<br />
+linear regression <br />
+LogisticRegression
 
