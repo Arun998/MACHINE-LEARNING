@@ -1,4 +1,5 @@
 #MACHINE LEARNING<br />
-linear regression <br />
+Simple linear regression <br />
+Multiple LinearRegression<br />
 LogisticRegression
 
