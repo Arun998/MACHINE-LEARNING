@@ -2,5 +2,5 @@
 Simple linear regression <br />
 Multiple LinearRegression<br />
 LogisticRegression<br />
-NaiveBaseClassifier using Gaussian
-
+NaiveBaseClassifier using Gaussian<br />
+NaiveBaseClassifier using multinomial<br />
