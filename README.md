@@ -5,3 +5,4 @@ LogisticRegression<br />
 KNN classifier<br />
 NaiveBaseClassifier using Gaussian<br />
 NaiveBaseClassifier using multinomial<br />
+Support Vector Machine <br />
