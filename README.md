@@ -32,9 +32,26 @@ and y is known, use this to predict
 future values of y for a value of x 
 This is done by fitting a regression 
 line and represented by a linear equation:
-y = a * x + b
+#### y = a * x + b
 
-###### simple linear regression example click here  - [linear_regression](https://github.com/Arun998/MACHINE-LEARNING/blob/main/simplelinearregression.ipynb)
+#### simple linear regression example click here  - [linear_regression](https://github.com/Arun998/MACHINE-LEARNING/blob/main/simplelinearregression.ipynb) <br />
+#### MULTIPLE LINEAR REGRESSION <br/>
+Multiple linear regression is a statistical technique used to predict the outcome of a response variable <br/>
+through several explanatory variables and model the relationships between them.<br/>
+
+***Equation for MLR***<br/>
+#### Y = m1* x1 + m2* x2 + m3* x3 + ………+ mn* xn + c <br/>
+***BASTON HOUSEPRICE PREDICTION USING MLR*** -[multiple linear regression](https://github.com/Arun998/MACHINE-LEARNING/blob/main/Boston%20House%20Price%20%20Prediction.ipynb)<br/>
+
+## Accuracy Metrics <br/>
+### *R-square  is the most common metric to judge the 
+performance of regression models<br/>
+Error = Predicted Value-ActualValue<br/>
+Example: Performing linear regression on sq. Area (x) and Price (y) returns R-square value as 16 
+This means you have 16% information to make an accurate prediction about the price.<br/>
+lies between 0 -100 %<br/>
+
+ 
 
 
 
