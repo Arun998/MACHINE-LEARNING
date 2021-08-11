@@ -59,7 +59,7 @@ As we increase the no of independent N-P-1 becomes small number attribute increa
 
 ## CLASSIFICATION <br/>
 If the target variable is categorical then we use classification<br/>
- #####  LogisticRegression <br/>
+ ###  LogisticRegression <br/>
  Logisticregression is widely used to predict the binary outcomes for given set of independent variables<br/>
    *The dependent variable can have only two values such as 0 or 1, win or loose, pass or fail*<br/>
  *** Use_cases ***<br/>
