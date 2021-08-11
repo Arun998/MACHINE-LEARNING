@@ -51,8 +51,26 @@ Example: Performing linear regression on sq. Area (x) and Price (y) returns R-sq
 This means you have 16% information to make an accurate prediction about the price.<br/>
 lies between 0 -100 %<br/>
 
- 
+### Adjusted R-Square <br/>
+##### Adjusted R^2=1-(1-R^2)(N-1)/N-P-1 <br/>
+It penalizes the attribute that are not correlated<br/>
+As we increase the no of independent N-P-1 becomes small number attribute increases adjust r^2 decreases when an attribute not correlated with target that time only adjusted R^2 decreases
 
+
+## CLASSIFICATION <br/>
+If the target variable is categorical then we use classification<br/>
+ #####  LogisticRegression <br/>
+ Logisticregression is widely used to predict the binary outcomes for given set of independent variables<br/>
+   *The dependent variable can have only two values such as 0 or 1, win or loose, pass or fail*<br/>
+ *** Use_cases ***<br/>
+    loan_sanction,spamfiltering exam_result i.e pass or fail <br/>
+The probability of distribution of output is restricted to 1 or 0<br/>
+###### Logisticregression equation is sigmoid function i.e s(t)=1/1+e^-t <br/>
+
+t->represents data volume<br/>
+s(t)->represent the probability<br/>
+s-> shaped curve<br/>
+Iris Flower data clsssification using Logistic regression -[LogisticRegression](https://github.com/Arun998/MACHINE-LEARNING/blob/main/CLASSIFICATION(IRIS%20FLOWER%20).ipynb)
 
 
 
